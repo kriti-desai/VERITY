@@ -3,7 +3,7 @@ import tempfile
 
 from fastapi.responses import FileResponse
 from starlette.background import BackgroundTask
-from .report_generator import generate_verification_report
+
 from reportlab.lib.pagesizes import A4
 from reportlab.platypus import (
     SimpleDocTemplate,
