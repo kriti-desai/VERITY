@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from "react";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://verity-qaxz.onrender.com";
 
 const styles = `
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap');
