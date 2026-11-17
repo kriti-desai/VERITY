@@ -110,3 +110,12 @@ GitHub: https://github.com/kriti-desai
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
+
+---
+
+## 📸 Application Screenshots
+
+### ClaimTrace – Marketing Claim Analysis
+
+![ClaimTrace Results](claimtrace-results.png)
+
